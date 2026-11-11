@@ -1,4 +1,7 @@
 {
-  "version": "1.8.3",
+  "version": "1.8.5",
   "url": "https://www.vasttuning.com/vast-tuning-suite/"
+  "url-windows": "https://mega.nz/file/GzABmCjD#xx1j2awCDiIJ0kIWxmqnauuBl8735ns7NFPwu831IHQ",
+  "url-mac-intel": "https://mega.nz/file/XipX0LxL#WmtPV0ZrWkRgVxfrw7_qvQAAAAAAAAAADD9NhpLPqI8",
+  "url-mac-arm": "https://mega.nz/file/32pGERYb#P4Kl92T6_4mYcTIfxi6Ax_bjkzNfKTG0jQ0hp5u_pBE"
 }
